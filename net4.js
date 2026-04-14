@@ -1,0 +1,1 @@
+export function net4(){console.log('network 4')}

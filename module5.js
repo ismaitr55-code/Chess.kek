@@ -1,0 +1,1 @@
+export function func5(){console.log('core 5')}

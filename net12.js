@@ -1,0 +1,1 @@
+export function net12(){console.log('network 12')}

@@ -1,0 +1,1 @@
+export function net9(){console.log('network 9')}

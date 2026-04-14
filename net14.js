@@ -1,0 +1,1 @@
+export function net14(){console.log('network 14')}

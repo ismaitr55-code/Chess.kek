@@ -1,0 +1,1 @@
+export function net5(){console.log('network 5')}

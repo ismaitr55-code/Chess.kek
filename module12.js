@@ -1,0 +1,1 @@
+export function func12(){console.log('core 12')}

@@ -1,0 +1,1 @@
+export function func8(){console.log('core 8')}

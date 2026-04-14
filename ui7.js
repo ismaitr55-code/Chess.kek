@@ -1,0 +1,1 @@
+export function ui7(){console.log('ui 7')}

@@ -1,0 +1,1 @@
+export function net1(){console.log('network 1')}

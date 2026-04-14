@@ -1,0 +1,1 @@
+export function func9(){console.log('core 9')}

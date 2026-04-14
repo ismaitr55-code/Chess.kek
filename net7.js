@@ -1,0 +1,1 @@
+export function net7(){console.log('network 7')}

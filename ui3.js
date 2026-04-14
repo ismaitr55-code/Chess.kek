@@ -1,0 +1,1 @@
+export function ui3(){console.log('ui 3')}

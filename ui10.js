@@ -1,0 +1,1 @@
+export function ui10(){console.log('ui 10')}

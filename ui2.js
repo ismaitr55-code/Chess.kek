@@ -1,0 +1,1 @@
+export function ui2(){console.log('ui 2')}
